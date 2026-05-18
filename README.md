@@ -4,6 +4,10 @@
 
 A highly optimized, game-ready 3D environment built in Unity. This project demonstrates a complete workflow from asset organization to baked lighting and dynamic probe setups, culminating in a playable First-Person (FPS) walkthrough.
 
+## 🎥 Video Showcase
+[**Click here to watch the Real-Time Walkthrough on Vimeo**](https://vimeo.com/1193294505)
+
+
 ## 🛠️ Technical Details
 - **Unity Version:** `6000.3.9f1`
 - **Delivery Format:** GitHub Repository (LFS Enabled)
