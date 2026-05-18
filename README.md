@@ -7,6 +7,7 @@ A highly optimized, game-ready 3D environment built in Unity. This project demon
 ## 🛠️ Technical Details
 - **Unity Version:** `6000.3.9f1`
 - **Delivery Format:** GitHub Repository (LFS Enabled)
+- **Environment Polycount:** `4,966 Triangles` (Highly Optimized)
 
 ## ✨ Key Features
 * **Game-Ready Optimization:** Clean hierarchy, prefabs, and zero console errors.
