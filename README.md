@@ -24,6 +24,7 @@ A highly optimized, game-ready 3D environment built in Unity. This project demon
 
 ---
 *Developed by Deniz Özkan*
-<img width="1594" height="961" alt="image" src="https://github.com/user-attachments/assets/4134317f-650f-49ce-8302-645ee002d832" />
-<img width="1587" height="965" alt="image" src="https://github.com/user-attachments/assets/15a915e5-f2aa-4de6-9a02-bfed7669c948" />
-<img width="1584" height="953" alt="image" src="https://github.com/user-attachments/assets/ffc93075-eba9-4003-aba8-5142f4c0bb8a" />
+<img width="1914" height="959" alt="image" src="https://github.com/user-attachments/assets/7c8c02a5-0d1b-401d-ac20-57153a95aba0" />
+<img width="1912" height="962" alt="image" src="https://github.com/user-attachments/assets/13c107c7-2d4d-443b-87c1-0ae46fd23fe4" />
+<img width="1915" height="954" alt="image" src="https://github.com/user-attachments/assets/12c10e3b-b43a-4981-94e8-b6a30f0f5f1e" />
+<img width="1589" height="961" alt="image" src="https://github.com/user-attachments/assets/eeedd5bd-553e-40e8-b937-91f43ac7d6be" />
